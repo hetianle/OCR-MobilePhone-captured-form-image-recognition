@@ -1,0 +1,4 @@
+model_checkpoint_path: "/Users/tianle/Desktop/digits_recognition/data-20000"
+all_model_checkpoint_paths: "/Users/tianle/Desktop/digits_recognition/data-19000"
+all_model_checkpoint_paths: "/Users/tianle/Desktop/digits_recognition/data-19500"
+all_model_checkpoint_paths: "/Users/tianle/Desktop/digits_recognition/data-20000"
