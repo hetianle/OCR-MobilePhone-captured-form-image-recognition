@@ -16,7 +16,7 @@ The software could extract form content (mainly digital numbers) from mobile pho
   
 ### Usage
     cd ../../OCR-MobilePhone-captured-form-image-recognition
-    python main.py
+    python main.py (you can customize your input and output in main function.)
     
 ### Highlights
 1. raw image
