@@ -5,7 +5,10 @@ The software could extract form content (mainly digital numbers) from mobile pho
 1. Image Preprocessing (Image gray scale, edge enhancement, banarization)
 2. Form area extraction.
 3. Line detection (vertical and horizontal)
-4  Key points detection and cls()
+4. Key points detection and cells extraction (record the coulmns and rows of wach cell)
+5. Content recognition using tensorflow (mainly digitis numbers recognition)
+6. Inport into database
+
 
 
 ### Denpidencies
